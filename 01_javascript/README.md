@@ -11,8 +11,8 @@
 4. <a href="04.md">Entrada e Saída de dados</a>✔
 5. <a href="05.md">Operadores</a>✔
 6. <a href="06.md">Laços Condicionais</a>✔
-7. <a href="07.md">Laços de Repetição</a>
-8. <a href="08.md">Vetores e Matrizes</a>
+7. <a href="07.md">Laços de Repetição</a>✔
+8. <a href="08.md">Vetores e Matrizes</a>✔
 
 <h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="5%"/>Introdução ao Typescript</h2>
 
