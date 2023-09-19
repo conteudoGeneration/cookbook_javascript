@@ -6,7 +6,7 @@
 <h2><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="5%"/>Introdução ao Javascript</h2>
 
 1. <a href="01.md">Introdução ao Javascript</a>
-2. <a href="02.md">Visual Code</a>
+2. <a href="02.md">Visual Studio Code</a>
 3. <a href="03.md">Variáveis e Constantes</a>✔
 4. <a href="04.md">Entrada e Saída de dados</a>✔
 5. <a href="05.md">Operadores</a>✔
