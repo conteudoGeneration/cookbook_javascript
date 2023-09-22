@@ -1,33 +1,33 @@
 <div align="center">
     <img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="30%"/>
 </div>
-<h1>Bootcamp - Javascript Full Stack </h1>
+<h1>Bootcamp - JavaScript Full Stack </h1>
 
-<h2><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="5%"/>Introdução ao Javascript</h2>
+<h2><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="5%"/>Introdução ao JavaScript</h2>
 
-1. <a href="01.md">Introdução ao Javascript</a>
+1. <a href="01.md">Introdução ao JavaScript</a>
 2. <a href="02.md">Visual Studio Code</a>
 3. <a href="03.md">Variáveis e Constantes</a>✔
 4. <a href="04.md">Entrada e Saída de dados</a>✔
 5. <a href="05.md">Operadores</a>✔
 6. <a href="06.md">Laços Condicionais</a>✔
-7. <a href="07.md">Laços de Repetição</a>
-8. <a href="08.md">Vetores e Matrizes</a>
+7. <a href="07.md">Laços de Repetição</a>✔
+8. <a href="08.md">Vetores e Matrizes</a>✔
 
-<h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="5%"/>Introdução ao Typescript</h2>
+<h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="5%"/>Introdução ao TypeScript</h2>
 
-1. <a href="09.md">Introdução ao Typescript</a>
-2. <a href="10.md">Collections</a>
-3. <a href="11.md">Estrutura de dados</a>
-4. <a href="12.md">Funções</a>
-5. <a href="13.md">Introdução a Programação Orientada a Objetos - Parte 01</a>
-6. <a href="14.md">Introdução a Programação Orientada a Objetos - Parte 02</a>
-7. <a href="15.md">Classes Abstratas</a>
-8. <a href="16.md">Interfaces</a>
-9. <a href="17.md">Exceptions</a>
-10. <a href="18.md">Arrow Functions</a>
-11. <a href="19.md">Promisses</a>
-12. <a href="20.md">Map, Filter, Reduce, Rest e Spread</a>
+9. <a href="09.md">Introdução ao TypeScript</a>✔
+10. <a href="10.md">Collections</a>
+11. <a href="11.md">Estrutura de dados</a>
+12. <a href="12.md">Funções</a>
+13. <a href="13.md">Introdução a Programação Orientada a Objetos - Parte 01</a>
+14. <a href="14.md">Introdução a Programação Orientada a Objetos - Parte 02</a>
+15. <a href="15.md">Classes Abstratas</a>
+16. <a href="16.md">Interfaces</a>
+17. <a href="17.md">Exceptions</a>
+18. <a href="18.md">Arrow Functions</a>
+19. <a href="19.md">Promisses</a>
+20. <a href="20.md">Map, Filter, Reduce, Rest e Spread</a>
 
 <h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="5%"/>Projeto Conta Bancária</h2>
 
