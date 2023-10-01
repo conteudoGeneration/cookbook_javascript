@@ -20,7 +20,7 @@
 10. <a href="10.md">Entrada de Dados</a>⚠
 11. <a href="11.md">Collections</a>✔
 12. <a href="12.md">Estrutura de dados</a>✔
-13. <a href="13.md">Funções</a>⚠
+13. <a href="13.md">Funções</a>✔
 14. <a href="14.md">Introdução a Programação Orientada a Objetos - Parte 01</a>❌
 15. <a href="15.md">Introdução a Programação Orientada a Objetos - Parte 02</a>❌
 16. <a href="16.md">Classes Abstratas</a>❌
