@@ -23,8 +23,8 @@
 11. <a href="11.md">Collections</a>✔
 12. <a href="12.md">Estrutura de dados</a>✔
 13. <a href="13.md">Funções</a>✔
-14. <a href="14.md">Introdução a Programação Orientada a Objetos - Parte 01</a>⚠
-15. <a href="15.md">Introdução a Programação Orientada a Objetos - Parte 02</a>❌
+14. <a href="14.md">Introdução a Programação Orientada a Objetos - Parte 01</a>✔
+15. <a href="15.md">Introdução a Programação Orientada a Objetos - Parte 02</a>⚠
 16. <a href="16.md">Classes Abstratas</a>❌
 17. <a href="17.md">Interfaces</a>❌
 18. <a href="18.md">Exceptions</a>❌
@@ -51,7 +51,7 @@
 
 <h2><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="35px"/>Conteúdo Auxiliar</h2>
 
-1. <a href="b01.md">Classe Math</a>❌
+1. <a href="b01.md">Classe Math</a>✔
 2. <a href="b02.md">Classe String</a>❌
 3. <a href="b03.md">Classe DateTime</a>❌
 
