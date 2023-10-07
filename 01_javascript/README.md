@@ -25,7 +25,7 @@
 13. <a href="13.md">Funções</a>✔
 14. <a href="14.md">Introdução a Programação Orientada a Objetos - Parte 01</a>✔
 15. <a href="15.md">Introdução a Programação Orientada a Objetos - Parte 02</a>✔
-16. <a href="16.md">Classes Abstratas</a>❌
+16. <a href="16.md">Classes Abstratas</a>✔
 17. <a href="17.md">Interfaces</a>❌
 18. <a href="18.md">Exceptions</a>❌
 19. <a href="19.md">Arrow Functions</a>❌
