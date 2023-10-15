@@ -5,8 +5,8 @@
 
 <h2><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="5%"/>Introdução ao JavaScript</h2>
 
-1. <a href="01.md">Introdução ao JavaScript</a>❌
-2. <a href="02.md">Visual Studio Code</a>❌
+1. <a href="01.md">Introdução ao JavaScript</a>✔
+2. <a href="02.md">Visual Studio Code</a>✔
 3. <a href="03.md">Variáveis e Constantes</a>✔
 4. <a href="04.md">Entrada e Saída de dados</a>✔
 5. <a href="05.md">Operadores</a>✔
@@ -26,7 +26,7 @@
 14. <a href="14.md">Introdução a Programação Orientada a Objetos - Parte 01</a>✔
 15. <a href="15.md">Introdução a Programação Orientada a Objetos - Parte 02</a>✔
 16. <a href="16.md">Classes Abstratas</a>✔
-17. <a href="17.md">Interfaces</a>❌
+17. <a href="17.md">Interfaces</a>✔
 18. <a href="18.md">Exceptions</a>❌
 19. <a href="19.md">Arrow Functions</a>❌
 20. <a href="20.md">Promisses</a>❌
