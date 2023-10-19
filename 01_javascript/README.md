@@ -3,6 +3,8 @@
 </div>
 <h1>Bootcamp - JavaScript Full Stack </h1>
 
+<br />
+
 <h2><img src="https://i.imgur.com/r9lrbPG.png" title="source: imgur.com" width="5%"/>Introdução ao JavaScript</h2>
 
 1. <a href="01.md">Introdução ao JavaScript</a>✔
@@ -30,8 +32,8 @@
 18. <a href="18.md">Interfaces</a>✔
 19. <a href="19.md">Exceptions</a>✔
 20. <a href="20.md">Arrow Functions</a>✔
-21. <a href="21.md">Processamento de Coleções de dados</a>❌
-22. <a href="22.md">Programação Assíncrona</a>❌
+21. <a href="21.md">Processamento de dados</a>✔
+22. <a href="22.md">Operações Assíncronas</a>❌
 
 <br />
 
@@ -57,7 +59,6 @@
 3. <a href="b03.md">Classe DateTime</a>❌
 
 <br /><br />
-	
 
 <div align="center"><a href="../README.md"><img src="https://i.imgur.com/kfHCxif.png" title="source: imgur.com" width="5%"/></a></div>
 <div align="center">Home</div>
