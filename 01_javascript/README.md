@@ -33,7 +33,9 @@
 19. <a href="19.md">Exceptions</a>✔
 20. <a href="20.md">Arrow Functions</a>✔
 21. <a href="21.md">Processamento de dados</a>✔
-22. <a href="22.md">Operações Assíncronas</a>❌
+22. <a href="22.md">Operações Assíncronas - Parte 01</a>✔
+23. <a href="23.md">Operações Assíncronas - Parte 02</a>✔
+24. <a href="24.md">Operações Assíncronas - Parte 03</a>✔
 
 <br />
 
@@ -56,7 +58,7 @@
 
 1. <a href="b01.md">Objeto Math</a>✔
 2. <a href="b02.md">Objeto String</a>✔
-3. <a href="b03.md">Classe DateTime</a>❌
+3. <a href="b03.md">Classe DateTime</a>✔
 
 <br /><br />
 
