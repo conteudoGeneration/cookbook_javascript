@@ -41,8 +41,8 @@
 
 <h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="5%"/>Projeto Conta Bancária</h2>
 
-1. <a href="pr01.md">Projeto Conta Bancária - Classe Menu</a>❌
-2. <a href="pr02.md">Projeto Conta Bancária - Classe Menu - Colorido</a>❌
+1. <a href="pr01.md">Projeto Conta Bancária - Classe Menu</a>✔
+2. <a href="pr02.md">Projeto Conta Bancária - Classe Menu - Colorido</a>✔
 3. <a href="pr03.md">Projeto Conta Bancária - Classe Conta</a>❌
 4. <a href="pr04.md">Projeto Conta Bancária - Classes ContaCorrente e ContaPoupanca</a>❌
 5. <a href="pr05.md">Projeto Conta Bancária - Classe Conta - Abstrata</a>❌
