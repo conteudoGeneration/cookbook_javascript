@@ -57,7 +57,7 @@
 
 1. <a href="b01.md">Objeto Math</a>
 2. <a href="b02.md">Objeto String</a>
-3. <a href="b03.md">Classe DateTime</a>
+3. <a href="b03.md">Objeto Date</a>
 
 <br /><br />
 
