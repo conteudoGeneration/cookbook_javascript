@@ -28,7 +28,7 @@
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com"/></td>
-        <td><a href="05_react/README.md">Frontend com React</a></td>
+        <td><a href="https://github.com/conteudoGeneration/cookbook_java_fullstack/tree/main/05_react#readme">Frontend com React</a></td>
     </tr>
 </table>
 
