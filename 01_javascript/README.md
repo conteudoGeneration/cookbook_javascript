@@ -15,8 +15,8 @@
 6. <a href="06.md">Operadores</a>
 7. <a href="07.md">Laços Condicionais</a>
 8. <a href="08.md">Laços de Repetição</a>
-9. **Arrays**
-9.1. <a href="09p01.md">Vetores</a>
+9. **Arrays**<br />
+9.1. <a href="09p01.md">Vetores</a> <br />
 9.2. <a href="09p02.md">Matrizes</a>
 
 <br />
