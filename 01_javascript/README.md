@@ -15,11 +15,15 @@
 6. <a href="06.md">Operadores</a>
 7. <a href="07.md">Laços Condicionais</a>
 8. <a href="08.md">Laços de Repetição</a>
-9. <a href="09.md">Vetores e Matrizes</a>
+9. **Arrays**
+9.1. <a href="09p01.md">Vetores</a>
+9.2. <a href="09p02.md">Matrizes</a>
 
 <br />
 
 <h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="5%"/>Introdução ao TypeScript</h2>
+
+
 
 10. <a href="10.md">Introdução ao TypeScript</a>
 11. <a href="11.md">Entrada de Dados</a>
