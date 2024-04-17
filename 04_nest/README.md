@@ -5,8 +5,7 @@
 
 <br />
 
-
-<h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="35px"/>Backend - Nest JS</h2>
+<h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="4%"/>Backend - Nest JS</h2>
 
 <br />
 
@@ -36,6 +35,14 @@
 23. <a href="23.md">Projeto Blog Pessoal - Teste de Software - Módulo Usuário</a>
 24. <a href="24.md">Projeto Blog Pessoal - Documentação com Swagger</a>
 25. <a href="25.md">Projeto Blog Pessoal - Deploy no Render via Github</a>
+
+<br />
+
+<h2><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com" width="4%"/>Anexos</h2>
+
+1. <a href="../05_fluxo_git/01_fluxo_git.md" >Projeto Integrador - Fluxo Git</a>
+6. <a href="../05_fluxo_git/02_github_organizations.md" >Projeto Integrador - Criando uma Organização no Github</a>
+7. <a href="../05_fluxo_git/03_deploy_organizacao_render.md" >Projeto Integrador - Deploy no Render - Organização no Github</a>
 
 <br /><br />
 
