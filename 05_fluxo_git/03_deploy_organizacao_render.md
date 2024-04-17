@@ -61,4 +61,4 @@ Neste material, o Passo 10 foi adaptado para o Deploy do Projeto Integrador via 
 <br /><br />
 	
 
-<div align="left"><a href="https://github.com/conteudoGeneration/cookbook_java_fullstack/blob/main/04_spring/README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
+<div align="left"><a href="https://github.com/conteudoGeneration/cookbook_javascript/blob/main/04_nest/README.md"><img src="https://i.imgur.com/XMgF3gl.png" title="source: imgur.com" width="3%"/>Voltar</a></div>
