@@ -15,12 +15,12 @@
         <td><a href="01_javascript/README.md">Programação de Computadores com JavaScript</a></td>
     </tr>
     <tr>
-        <td><img src="https://i.imgur.com/cDPH4tl.png" title="source: imgur.com"/></td>
-        <td><a href="02_http/01.md">Introdução ao Protocolo HTTP</a></td>
-    </tr>
-    <tr>
         <td><img src="https://i.imgur.com/38hZn7Z.png" title="source: imgur.com" /></td>
         <td><a href="03_mysql/README.md">Banco de dados com MySQL</a></td>
+    </tr>
+    <tr>
+        <td><img src="https://i.imgur.com/cDPH4tl.png" title="source: imgur.com"/></td>
+        <td><a href="02_http/01.md">Introdução ao Protocolo HTTP</a></td>
     </tr>
     <tr>
         <td><img src="https://i.imgur.com/O6PILGE.png" title="source: imgur.com"/></td>
