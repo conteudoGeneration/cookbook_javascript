@@ -47,15 +47,18 @@ Algumas coisas importantes devem ser questionadas ao avaliar a eficiência de um
 
 No projeto Integrador, utilizaremos o modelo <b>Fluxo de trabalho de Ramificação de recurso</b>, conforme a estrutura detalhada nas figuras abaixo, onde cada <b>Task</b> do Projeto Integrador será uma <b>Feature Branch</b> no Repositório Remoto no Github.
 
+Na imagem abaixo, vemos o Fluxo Git do Bloco 2 - Backend:
+
 <div align="center"><img src="https://i.imgur.com/59o9NhC.png" title="source: imgur.com" width="95%"/>
-<figcaption><i>Fluxo de trabalho do Bloco 02 - Backend</i></figcaption>
 </div>
 
 <br />
 
+Na próxima imagem, vemos o Fluxo Git do Bloco 3 - Frontend:
+
 <div align="center"><img src="https://i.imgur.com/Ig34RBB.png" title="source: imgur.com" width="95%"/>
-<figcaption><i>Fluxo de trabalho do Bloco 03 - Frontend</i></figcaption>
 </div>
+
 
 <br />
 
