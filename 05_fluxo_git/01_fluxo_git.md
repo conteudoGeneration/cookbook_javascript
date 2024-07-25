@@ -232,7 +232,7 @@ git checkout task3
 
 <br />
 
-<h3>3.6) Criar a Primeira Classe (Developers)</h3>
+<h3>3.6) Criar a Primeira Classe Entidade (Model) (Developers)</h3>
 
 
 
@@ -240,13 +240,21 @@ As pessoas Desenvolvedoras, estão prontas para trabalhar no código.
 
 1. Verifique no Gitbash se a Branch atual é a Branch **task3**
 
-<div align="left"><img src="https://i.imgur.com/CyHb0KE.png" title="source: imgur.com" /></div>
+<div align="left"><img src="https://i.imgur.com/JzeeWXx.png" title="source: imgur.com" /></div>
 
-2. Crie a primeira **Classe Model** na pasta **Model**, seguindo as Boas Práticas apresentadas no **Cookbook**
+2. Crie o Banco de dados do projeto no MySQL, seguindo as oas Práticas apresentadas no **Cookbook sobre MySQL**
 
-5. Execute a aplicação e verifique se o Banco de dados e a primeira Tabela foram criadas no **MySQL**.
+3. Configure a conexão com o Banco de dados, seguindo as Boas Práticas apresentadas no **Cookbook sobre NEST**
 
-11. No Gitbash, execute a sequência de comandos abaixo para enviar a Tarefa para o **Repositório Remoto backend**:
+4. Crie o primeiro Recurso do projeto, seguindo as Boas Práticas apresentadas no **Cookbook sobre NEST**
+
+5. Crie a primeira **Classe Model (Entitdade)**, seguindo as Boas Práticas apresentadas no **Cookbook sobre NEST**
+
+6. Registre a primeira **Classe Model (Entitdade)** na Classe Module do Recurso e na Classe AppModule, seguindo as Boas Práticas apresentadas no **Cookbook sobre NEST**
+
+7. Execute a aplicação e verifique se o Banco de dados e a primeira Tabela do Banco de dados foram criadas no **MySQL**.
+
+8. No Gitbash, execute a sequência de comandos abaixo para enviar a Tarefa para o **Repositório Remoto backend**:
 
 ```bash
 git add .
@@ -256,7 +264,7 @@ git commit -m "Task 03 - Criar a primeira Classe Model"
 git push origin task3
 ```
 
-5. Observe que a **Classe Model** estará disponível apenas na **Branch Task 03**.
+9. Observe que a **Classe Model** estará disponível apenas na **Branch Task 03**.
 
 <div align="center"><img src="https://i.imgur.com/NcPCNQt.png" title="source: imgur.com" /></div>
 
@@ -331,6 +339,9 @@ git pull origin task3
 
 git pull origin main 
 ```
+
+<br />
+
 
 | <img src="https://i.imgur.com/vVDBDG0.png" title="source: imgur.com" width="300px"/> | <div align="left"> **ALERTA DE BSM:** *Antes de começar a implementar um novo código em um projeto em grupo, não esqueça de executar o comando, git pull em todas as Branches atualizadas. Desta forma você estará evitando os famosos Conflitos Git, além de ter a certeza que você estará trabalhando em cima da última versão funcional do Projeto * </div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
