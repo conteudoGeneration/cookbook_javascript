@@ -37,8 +37,8 @@
 19. <a href="19.md">Exceptions</a>
 20. <a href="20.md">Arrow Functions</a>
 21. <a href="21.md">Processamento de dados com Arrays</a>
-22. <a href="22.md">Operações Assíncronas (Callbacks) - Parte 01</a>
-23. <a href="23.md">Operações Assíncronas (Promises) - Parte 02</a>
+22. <a href="22.md">Operações Assíncronas (Callback) - Parte 01</a>
+23. <a href="23.md">Operações Assíncronas (Promise) - Parte 02</a>
 24. <a href="24.md">Operações Assíncronas (Async/Await) - Parte 03</a>
 
 <br />
