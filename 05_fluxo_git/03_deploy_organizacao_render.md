@@ -86,8 +86,9 @@ Antes de iniciar o processo do Deploy, verifique os pontos de atenção abaixo:
 
 <br />
 
-| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="80px"/> | <p align="justify"> **ATENÇÃO:** *Caso seja selecionado um plano diferente, o Render exigirá o Cartão de Crédito para emitir a fatura do serviço. </p> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+> [!IMPORTANT]
+>
+> **Caso seja selecionado um plano diferente, o Render exigirá o Cartão de Crédito para emitir a fatura do serviço.**
 
 <br /><br />
 	
