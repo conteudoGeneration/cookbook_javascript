@@ -36,7 +36,6 @@ Antes de iniciar o processo do Deploy, verifique os pontos de atenção abaixo:
 | VARCHAR(max)                         | TEXT                          |
 
 - Observe que a maioria dos tipos são iguais, entretanto, existem alguns que são diferentes e podem causar erro durante o processo do Deploy no Render.
-- Caso o seu grupo tenha algum problema para configurar um atributo do tipo Date/Time (problema muito comum), consulte o artigo: [Easy Guide to TypeORM Dates, Time, TimeStamp, and Timezone](https://thriveread.com/typeorm-date-and-timestamp/) (em Inglês).
 - No **Passo 03 - Criar uma conta grátis no Render**, crie uma nova conta no Render utilizando a conta do Github que foi criada para o Projeto Integrador do seu grupo;
 
 <br />
