@@ -27,8 +27,12 @@
         <td><a href="04_nest/README.md">Backend com Nest</a></td>
     </tr>
     <tr>
+        <td><img src="https://i.imgur.com/ojhc9Jc.png" title="source: imgur.com" /></td>
+        <td><a href="https://github.com/conteudoGeneration/cookbook_java_fullstack/tree/main/08_fundweb/README.md">Fundamentos WEB</a></td>
+    </tr>
+    <tr>
         <td><img src="https://i.imgur.com/H9wEgsJ.png" title="source: imgur.com"/></td>
-        <td><a href="https://github.com/conteudoGeneration/cookbook_java_fullstack/tree/main/05_react#readme">Frontend com React</a></td>
+        <td><a href="https://github.com/conteudoGeneration/cookbook_java_fullstack/tree/main/05_react/README.md">Frontend com React</a></td>
     </tr>
 </table>
 
