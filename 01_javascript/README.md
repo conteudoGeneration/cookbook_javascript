@@ -25,25 +25,28 @@
 
 
 
-10. <a href="10.md">Introdução ao TypeScript</a>
+10. **Introdução**<br />10.1. <a href="10p01.md">A Linguagem TypeScript</a> <br />10.2. <a href="10p02.md">Variáveis</a>
 11. <a href="11.md">Entrada de Dados</a>
 12. <a href="12.md">Collections</a>
-13. <a href="13.md">Estruturas de dados</a>
-14. <a href="14.md">Funções</a>
-15. <a href="15.md">Introdução a Programação Orientada a Objetos - Parte 01</a>
-16. <a href="16.md">Introdução a Programação Orientada a Objetos - Parte 02</a>
-17. <a href="17.md">Classes Abstratas</a>
-18. <a href="18.md">Interfaces</a>
-19. <a href="19.md">Exceptions</a>
-20. <a href="20.md">Arrow Functions</a>
-21. <a href="21.md">Processamento de dados com Arrays</a>
-22. <a href="22.md">Operações Assíncronas (Callback) - Parte 01</a>
-23. <a href="23.md">Operações Assíncronas (Promise) - Parte 02</a>
-24. <a href="24.md">Operações Assíncronas (Async/Await) - Parte 03</a>
+
+10. <a href="13.md">Estruturas de dados</a>
+11. <a href="14.md">Funções</a>
+12. <a href="15.md">Introdução a Programação Orientada a Objetos - Parte 01</a>
+13. <a href="16.md">Introdução a Programação Orientada a Objetos - Parte 02</a>
+14. <a href="17.md">Classes Abstratas</a>
+15. <a href="18.md">Interfaces</a>
+16. <a href="19.md">Exceptions</a>
+17. <a href="20.md">Arrow Functions</a>
+18. <a href="21.md">Processamento de dados com Arrays</a>
+19. <a href="22.md">Operações Assíncronas (Callback) - Parte 01</a>
+20. <a href="23.md">Operações Assíncronas (Promise) - Parte 02</a>
+21. <a href="24.md">Operações Assíncronas (Async/Await) - Parte 03</a>
 
 <br />
 
 <h2><img src="https://i.imgur.com/izFuHID.png" title="source: imgur.com" width="5%"/>Projeto Conta Bancária</h2>
+
+
 
 1. <a href="pr01.md">Projeto Conta Bancária - Classe Menu</a>
 2. <a href="pr02.md">Projeto Conta Bancária - Classe Menu - Colorido</a>
