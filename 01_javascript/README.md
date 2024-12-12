@@ -25,7 +25,7 @@
 
 
 
-10. **Introdução**<br />10.1. <a href="10p01.md">A Linguagem TypeScript</a> <br />10.2. <a href="10p02.md">Variáveis</a>
+10. **Introdução**<br />10.1. <a href="10p01.md">A Linguagem TypeScript</a> <br />10.2. <a href="10p02.md">Variáveis e Constantes</a>
 11. <a href="11.md">Entrada de Dados</a>
 12. <a href="12.md">Collections</a>
 10. <a href="13.md">Estruturas de dados</a>
