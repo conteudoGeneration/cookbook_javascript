@@ -6,7 +6,7 @@ As organizações são contas compartilhadas onde empresas e projetos de  códig
 
 Com a Organização, o Administrador consegue criar vários repositórios em um único lugar e conceder acessos específicos para cada membro ou time. Como um integrante da organização, você pode visitar o painel da sua  organização durante todo o dia para se manter atualizado sobre as atividades recentes e acompanhar problemas e pull requests nos quais está trabalhando ou seguindo na organização.
 
-No projeto Integrador, a Organização será composta por 3 Repositórios:
+No projeto Integrador, a Organização será composta por diversos Repositórios, seguindo o padrão de nomes abaixo:
 
 <table border="1" width="100%">
 	<tr>
@@ -14,8 +14,8 @@ No projeto Integrador, a Organização será composta por 3 Repositórios:
 		<td><b>Conteúdo</b></td>
 	</tr>
 	<tr>
-		<td><b>Documentação</b></td>
-		<td>Arquivos contendo a documentação da API: <br />
+		<td><b>documentacao</b></td>
+		<td>Arquivos contendo as documentações das 3 API's: <br />
 		- Escopo do Projeto atualizado<br />
         - Documentação do Banco de Dados (DER, SQL e Dicionário de dados)<br />
 		- Documentação do Backend (Documentação das Classes e PDF do Swagger)<br />
@@ -23,23 +23,28 @@ No projeto Integrador, a Organização será composta por 3 Repositórios:
 		</td>
 	</tr>
 	<tr>
-		<td><b>Backend</b></td>
+		<td><b>nome_do_projeto-backend</b></td>
 		<td>Projeto Nest completo</td>
 	</tr>
 	<tr>
-		<td><b>Frontend</b></td>
-		<td>Projeto Angular/React Completo</td>
+		<td><b>nome_do_projeto-frontend</b></td>
+		<td>Projeto React Completo</td>
 	</tr>
 </table>
+
+Cada projeto Nest e React deverão ter o seu próprio repositório. A Documentação de todos os projetos serão mantidas no repositório documentação.
+
 <br />
 
 <h2>👣 Passo 01 - Preparação do ambiente</h2>
 
 
 
-1. Crie uma conta de e-mail gratuita com o nome do projeto (Gmail).
+1. Crie uma conta de e-mail gratuita com o nome do grupo (grupo_NN-turma-javascript_NN).
 
 2. Crie uma conta gratuita no Github utilizando o e-mail criado com o nome do projeto.
+
+*NN é o número do grupo e da turma*
 
 <br />
 
@@ -61,11 +66,13 @@ Neste passo, vamos criar uma organização dentro da conta do Github que o Grupo
 
 <div align="center"><img src="https://i.imgur.com/OFViqzW.png" title="source: imgur.com" /></div>
 
-| Item                             | Dados                 |
-| -------------------------------- | --------------------- |
-| **Organization account name**    | Nome do seu projeto   |
-| **Contact e-mail**               | E-mail do seu projeto |
-| **This organization belongs to** | My personal account   |
+| Item                             | Dados                        |
+| -------------------------------- | ---------------------------- |
+| **Organization account name**    | grupo_NN-turma_javascript_NN |
+| **Contact e-mail**               | E-mail do seu grupo          |
+| **This organization belongs to** | My personal account          |
+
+*NN é o número do grupo e da turma*
 
 4. Ao final, faça a verificação de segurança da sua conta clicando no botão **Verificar** e ao finalizar clique no botão **Next**.
 
@@ -101,14 +108,14 @@ Neste passo vamos criar os nossos Repositórios Remotos.
 
 <div align="center"><img src="https://i.imgur.com/aKLoCPx.png?1" title="source: imgur.com" width="80%"/></div>
 
-2. Na próxima tela, crie um **Repositório Público**, chamado **backend** e adicione o arquivo **Readme.MD**. Em seguida clique no botão **Create Repository**.
-<div align="center"><img src="https://i.imgur.com/G3WbsEb.png" title="source: imgur.com" width="75%"/></div>
+2. Na próxima tela, crie um **Repositório Público**, chamado **nome_do_projeto-backend** e em seguida clique no botão **Create Repository**.
+<div align="center"><img src="https://i.imgur.com/DrrSJud.png" title="source: imgur.com" width="75%"/></div>
 
 3. Repositório Criado
 
-<div align="center"><img src="https://i.imgur.com/gWiw2SA.png" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/3K4q6uy.png" title="source: imgur.com" /></div>
 
-4. Crie os demais Repositórios clicando no botão **New**.
+4. Para criar os demais Repositórios no futuro, clique no botão **New**.
 
 <div align="center"><img src="https://i.imgur.com/FB2N0kL.png" title="source: imgur.com" /></div>
 
@@ -194,7 +201,7 @@ Neste passo, vamos adicionar o time nos Repositórios do Projeto.
 
 <div align="center"><img src="https://i.imgur.com/9Zq1yHc.png" title="source: imgur.com" width="75%"/></div>
 
-| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="100px"/> | <div align="left"> **ATENÇÃO:** O item **URL**, **deverá ser preenchido apenas no final do Bloco 03**, quando o Frontend estiver concluído e na nuvem.</div> |
+| <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="100px"/> | <div align="left"> **ATENÇÃO:** O item **URL**, **deverá ser preenchido apenas no final do Bloco 03**, quando o Frontend do projeto que será apresentado no Evento de Empregabilidade estiver concluído e na nuvem.</div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 4. Clique no botão **Update Profile** para concluir. O resultado você confere na imagem abaixo:
