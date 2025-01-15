@@ -56,7 +56,7 @@ Neste passo, vamos criar uma organização dentro da conta do Github que o Grupo
 
 1. Na Barra de Navegação superior da Conta do Github, clique no botão **+** e no menu que será aberto, clique na opção **New organization**.
 
-<div align="center"><img src="https://i.imgur.com/4RGWin1.png" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/5dopqz8.png" title="source: imgur.com" /></div>
 
 2. Na próxima tela, role para baixo e clique no botão **Create a free organization**.
 
@@ -64,37 +64,30 @@ Neste passo, vamos criar uma organização dentro da conta do Github que o Grupo
 
 3. Na próxima tela, configure com os dados do seu projeto.
 
-<div align="center"><img src="https://i.imgur.com/OFViqzW.png" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/x3t6pR7.png" title="source: imgur.com" /></div>
 
 | Item                             | Dados                        |
 | -------------------------------- | ---------------------------- |
-| **Organization account name**    | grupo_NN-turma_javascript_NN |
+| **Organization account name**    | Grupo NN Turma JavaScript NN |
 | **Contact e-mail**               | E-mail do seu grupo          |
 | **This organization belongs to** | My personal account          |
 
 *NN é o número do grupo e da turma*
 
-4. Ao final, faça a verificação de segurança da sua conta clicando no botão **Verificar** e ao finalizar clique no botão **Next**.
+4. Ao final, faça a verificação de segurança da sua conta clicando no botão **Verificar**, marque a opção de concordância com os **Termos de Uso do Serviço** (marcado em vermelho) e clique no botão **Next**.
 
-<div align="center"><img src="https://i.imgur.com/79qmXci.png" title="source: imgur.com" width="80%"/></div>
+<div align="center"><img src="https://i.imgur.com/DAACOex.png" title="source: imgur.com" /></div>
 
 5. Na próxima tela, adicione todos os membros do seu grupo na Organização, através da conta do Github de cada integrante. Ao final clique no botão **Complete setup**.
 
-<div align="center"><img src="https://i.imgur.com/SfVMaOu.png" title="source: imgur.com"  width="85%"/></div>
+<div align="center"><img src="https://i.imgur.com/mgE2E6t.png" title="source: imgur.com" /></div>
 
-6. Na próxima tela, preencha conforme a figura abaixo e clique no botão **Submit** para concluir.
+6. Os integrantes do grupo irão receber um **e-mail com o convite** para fazer parte da Organização, semelhante a figura abaixo:
 
-<div align="center"><img src="https://i.imgur.com/JhUp8eY.png" title="source: imgur.com"  width="80%"/></div>
-<div align="center"><img src="https://i.imgur.com/IVEECtm.png?1" title="source: imgur.com"  width="80%"/></div>
-<div align="center"><img src="https://i.imgur.com/rrCNzt4.png" title="source: imgur.com"  width="80%"/></div>
+<div align="center"><img src="https://i.imgur.com/TSmIDAO.png" title="source: imgur.com" /></div>
 
-7. Os integrantes do grupo irão receber um **e-mail com o convite** para fazer parte da Organização, semelhante a figura abaixo:
-
-<div align="center"><img src="https://i.imgur.com/qODk771.png" title="source: imgur.com" /></div>
-
-8. Clique no botão **Join** para aceitar o convite. 
-
-9. Após clicar no botão **Join**, o Github solicitará a senha do Github pessoal para confirmar a aceitação do convite.
+7. Clique no botão **Join** para aceitar o convite. 
+8. Após clicar no botão **Join**, o Github solicitará a senha do Github pessoal para confirmar a aceitação do convite.
 
 <br />
 
@@ -104,20 +97,23 @@ Neste passo, vamos criar uma organização dentro da conta do Github que o Grupo
 
 Neste passo vamos criar os nossos Repositórios Remotos.
 
-1. Na tela inicial da Organização, clique no botão **Create a new repository**.
+1. Na tela inicial da Organização, clique no link **Repositories**.
 
-<div align="center"><img src="https://i.imgur.com/aKLoCPx.png?1" title="source: imgur.com" width="80%"/></div>
+<div align="center"><img src="https://i.imgur.com/mmS2tld.png" title="source: imgur.com" /></div>
 
-2. Na próxima tela, crie um **Repositório Público**, chamado **nome_do_projeto-backend** e em seguida clique no botão **Create Repository**.
-<div align="center"><img src="https://i.imgur.com/DrrSJud.png" title="source: imgur.com" width="75%"/></div>
+2. Na sequência, clique no botão **New repository**.
 
-3. Repositório Criado
+<div align="center"><img src="https://i.imgur.com/lD82tjh.png" title="source: imgur.com" /></div>
 
-<div align="center"><img src="https://i.imgur.com/3K4q6uy.png" title="source: imgur.com" /></div>
+3. Na próxima tela, crie um **Repositório Público**, chamado **nome_do_projeto-backend** e em seguida clique no botão **Create Repository**.
 
-4. Para criar os demais Repositórios no futuro, clique no botão **New**.
+<div align="center"><img src="https://i.imgur.com/9w8YSYN.png" title="source: imgur.com" /></div>
 
-<div align="center"><img src="https://i.imgur.com/FB2N0kL.png" title="source: imgur.com" /></div>
+4. Repositório Criado!
+
+<div align="center"><img src="https://i.imgur.com/AHCz83P.png" title="source: imgur.com" /></div>
+
+5. Para criar os demais Repositórios no futuro, siga os mesmos passos.
 
 <br />
 
@@ -131,27 +127,25 @@ Os proprietários da organização e os mantenedores da equipe podem conceder à
 
 Neste passo vamos criar um time de desenvolvimento.
 
-1. Na página inicial da Organização, clique na opção **Teams** (Indicado na imagem em azul). Em seguida clique no botão **New team** (Indicado em vermelho na imagem).
+1. Na tela inicial da Organização, clique no link **Teams**.
 
-<div align="center"><img src="https://i.imgur.com/8sIToqA.png?1g" title="source: imgur.com" width="80%"/></div>
+<div align="center"><img src="https://i.imgur.com/v0zK9q8.png" title="source: imgur.com" /></div>
 
-2. Configure conforme a imagem abaixo e clique no botão **Create team**. Se o Grupo desejar, pode alterar o nome do Time.
+2. Na sequência, clique no botão **New team**.
 
-<div align="center"><img src="https://i.imgur.com/hUTmynm.png" title="source: imgur.com" width="80%"/></div>
+<div align="center"><img src="https://i.imgur.com/koXOidc.png" title="source: imgur.com" /></div>
 
-3. Na página inicial do Time, em **Members**, clique no **botão +** para adicionar os integrantes do Grupo no Time.
+3. Configure conforme a imagem abaixo e clique no botão **Create team**. Se o Grupo desejar, pode alterar o nome do Time.
 
-<div align="center"><img src="https://i.imgur.com/WrEbd4c.png?1" title="source: imgur.com" width="50%"/></div>
+<div align="center"><img src="https://i.imgur.com/XXfEaEj.png" title="source: imgur.com" width="80%"/></div>
 
-4. Clique no botão **Add a member** para adicionar um novo membro no time.
+3. Na página inicial do Time, clique no botão **Add a member** para adicionar os integrantes do Grupo no Time.
 
-<div align="center"><img src="https://i.imgur.com/tmd8EVq.png?1" title="source: imgur.com" width="80%"/></div>
+<div align="center"><img src="https://i.imgur.com/8nCyrjD.png" title="source: imgur.com" /></div>
 
-5. Na próxima tela, localize os integrantes do grupo e clique no botão **Invite**.
+4. Na próxima tela, localize os integrantes do grupo e clique no botão **Invite**.
 
-<div align="center"><img src="https://i.imgur.com/4YQJSk4.png" title="source: imgur.com" width="75%"/></div>
-
-6. Como os integrantes do grupo já fazem parte da Organização, todos receberão uma mensagem via e-mail informando que foram adicionados no time.
+<div align="center"><img src="https://i.imgur.com/4YQJSk4.png" title="source: imgur.com" /></div>
 
 <br />
 
@@ -159,23 +153,27 @@ Neste passo vamos criar um time de desenvolvimento.
 
 
 
-Neste passo, vamos adicionar o time nos Repositórios do Projeto.
+Neste passo, vamos adicionar o time no Repositório do Projeto.
 
-1. Na tela inicial do Repositório (no exemplo abaixo, backend), clique no link **Settings**.
+1. Na tela inicial da Organização, clique no link **Repositories** e na sequência clique no repositório que você deseja adicionar o grupo.
 
-<div align="center"><img src="https://i.imgur.com/3nw0vEO.png" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/mmS2tld.png" title="source: imgur.com" /></div>
 
-2. Na próxima tela, no menu lateral do lado esquerdo da tela, clique na opção **Collaborators & teams**.
+2. Na tela inicial do Repositório (no exemplo abaixo, **rh-backend**), clique no link **Settings**.
+
+<div align="center"><img src="https://i.imgur.com/7Yt1fAQ.png" title="source: imgur.com" /></div>
+
+3. Na próxima tela, no menu lateral do lado esquerdo da tela, clique na opção **Collaborators & teams**.
 
 <div align="center"><img src="https://i.imgur.com/ovPFtJI.png" title="source: imgur.com" /></div>
 
-3. Ainda nesta tela, clique no botão **Add teams**.
+4. Ainda nesta tela, clique no botão **Add teams**.
 
-<div align="center"><img src="https://i.imgur.com/JEPc6NG.png?1" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/gVxbRlI.png" title="source: imgur.com" /></div>
 
-4. Na próxima tela, selecione o **Time** (indicado em azul na imagem abaixo) na opção **Choose role**, vamos deixar com **Administrador** (indicado em vermelho na imagem abaixo). Desta forma, todos os Integrantes do Grupo terão acesso total ao Repositório.
+5. Na próxima tela, localize e selecione o **Time**. Na opção **Choose role**, vamos deixar com **Admin**. Desta forma, todos os Integrantes do Grupo terão acesso total ao Repositório.
 
-<div align="center"><img src="https://i.imgur.com/xsfk8YD.png" title="source: imgur.com" width="55%"/></div>
+<div align="center"><img src="https://i.imgur.com/WOATswx.png" title="source: imgur.com" /></div>
 
 5. Clique no botão **Add** (botão verde), para concluir.
 6. Repita estes passos nos demais repositórios do projeto.
@@ -191,22 +189,25 @@ Neste passo, vamos adicionar o time nos Repositórios do Projeto.
 
 1. Clique sobre logo da Organização
 
-<div align="center"><img src="https://i.imgur.com/vLswEzr.png" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/d4yDd2i.png" title="source: imgur.com" /></div>
 
 2. Na janela General, para alterar ou inserir o logo do projeto, clique no botão **Upload new picture**, na sessão **Profile picture** e selecione o novo logo.
 
-<div align="center"><img src="https://i.imgur.com/kHLvs9U.png" title="source: imgur.com" /></div>
+<div align="center"><img src="https://i.imgur.com/N9kFUHU.png" title="source: imgur.com" /></div>
 
-3. Ainda nesta janela, personalize as informações da Organização como mostra a figura abaixo, ajustando os dados para o seu projeto.
+3. Ainda nesta janela, personalize as informações da Organização, ajustando os dados para o seu grupo.
 
-<div align="center"><img src="https://i.imgur.com/9Zq1yHc.png" title="source: imgur.com" width="75%"/></div>
+<div align="center">
+    <img src="https://i.imgur.com/RN32XZb.png" title="source: imgur.com" />
+	<img src="https://i.imgur.com/bKoPFap.png" title="source: imgur.com" width="96%"/>
+</div>
+
+
 
 | <img src="https://i.imgur.com/hOgWvSc.png" title="source: imgur.com" width="100px"/> | <div align="left"> **ATENÇÃO:** O item **URL**, **deverá ser preenchido apenas no final do Bloco 03**, quando o Frontend do projeto que será apresentado no Evento de Empregabilidade estiver concluído e na nuvem.</div> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-4. Clique no botão **Update Profile** para concluir. O resultado você confere na imagem abaixo:
-
-<div align="center"><img src="https://i.imgur.com/AvUlZ51.png" title="source: imgur.com" /></div>
+4. Clique no botão **Update Profile** para concluir.
 
 <br /><br />
 	
